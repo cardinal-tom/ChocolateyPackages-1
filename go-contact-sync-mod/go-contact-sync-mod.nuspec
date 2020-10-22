@@ -65,7 +65,7 @@ Please find some guidelines how to sync your mobile phone contacts with Google C
     <dependencies>
       <dependency id="dotnet4.5" version="4.5" />
     </dependencies>
-    <releaseNotes>https://sourceforge.net/projects/googlesyncmod/files/Releases/3.10.29/</releaseNotes>
+    <releaseNotes>https://sourceforge.net/projects/googlesyncmod/files/Releases/3.11.1/</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
